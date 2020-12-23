@@ -1,2 +1,2 @@
 # Arctic_Dogs
-A wrapper to test admixture models
+A snakemake based wrapper to test admixture models
