@@ -1,0 +1,20 @@
+
+backbones:
+  backbone1: data/bb_simp1.tsv
+  backbone2: data/bb_simp2.tsv
+  backbone3: data/bb_simp3.tsv
+  backbone4: data/bb_simp4.tsv
+
+master_file_set:
+  master_no_ext:  data/SiberianDogs2020-LOW_maf5_pruned_geno25
+
+target_list:
+  tl:  data/tar_dog_ref
+
+model_scripts:
+  adm_models_to_fit: scripts/adm_graph_Models_simple.R
+  adm_graphs: scripts/adm_graph_schematics_simple_bb.R
+
+analysis_name:  simple_bb
+
+chr_set:  dog
