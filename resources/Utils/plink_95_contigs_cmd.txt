@@ -1,0 +1,1 @@
+plink --file Sib_vulpes_renamed --allow-extra-chr --chr-set 95 --chr 1-95 --recode --out Sib_vulpes_renamed_95_contigs
